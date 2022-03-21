@@ -6,7 +6,6 @@ Thus preventing Heart diseases has become more than necessary. Good data-driven 
 ## Objective(s)
 - With the dataset provided for heart analysis, we have to analyse the possibilities of heart attack on the basis of various features, and then the prediction from the analysis will tell us that whether an individual is prone to heart attack or not.
 - The detailed analysis can proceed with the exploratory data analysis (EDA).
-- The classification for predication can be done using various machine learning model algorithms, choose the best suited model for heart attack analysis and finally save the model in the pickle (.pkl) file.
 
 ## Research Question(s)
 - Does the age of a person contribute towards heart attack?
