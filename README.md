@@ -8,7 +8,7 @@ Heart disease describes a range of conditions that affect your heart. Diseases u
 
 Source:https://www.cdc.gov/heartdisease/about.htm
 
-Symptoms
+# Symptoms
 Chest pain, chest tightness, chest pressure and chest discomfort (angina)
 Shortness of breath
 Pain, numbness, weakness or coldness in your legs or arms if the blood vessels in those parts of your body are narrowed
@@ -22,4 +22,4 @@ With the dataset provided for heart analysis, we have to analyse the possibiliti
 The detailed analysis can proceed with the exploratory data analysis (EDA).
 The classification for predication can be done using various machine learning model algorithms, choose the best suited model for heart attack analysis and finally save the model in the pickle (.pkl) file.
 
-Research Question(s)
+# Research Question(s)
